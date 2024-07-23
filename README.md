@@ -1,1 +1,1 @@
-# space_titanic
+# Space Titanic Kaggle Competition
